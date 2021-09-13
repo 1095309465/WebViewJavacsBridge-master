@@ -1,0 +1,2 @@
+include ':webviewjavascriptbridge', ':myapplication'
+rootProject.name='WebViewJavacsBridge-master'
